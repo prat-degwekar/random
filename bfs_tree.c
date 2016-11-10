@@ -47,11 +47,6 @@ void bfs(int **arr , int *vis , int *q , int **fin)
 	    
 	 }//if
       }
-   }//while
-
-   printf("peace\n\n");
-}//bfs
-
 
 void main()
 {
